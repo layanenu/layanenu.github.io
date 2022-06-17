@@ -38,3 +38,9 @@ img{
     display: flex;
     justify-content: space-between;
 }
+
+.foto-profile{
+    padding: 5px;
+    background-color: #a85a69;
+    border-radius: 50px;
+}
